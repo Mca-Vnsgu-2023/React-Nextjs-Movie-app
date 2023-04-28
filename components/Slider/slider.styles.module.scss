@@ -1,0 +1,87 @@
+.sliderDiv {
+    // position: absolute;
+    // height: 544px;
+    // width: auto;
+    padding-left: 101px;
+    top: 0px;
+    margin: 0;
+    border-radius: 0px;
+}
+
+.sliderImg {
+    max-width: 100%;
+    width: 1450px;
+    // width: 1331px;
+    height: 544px;
+  }
+
+.textOn_image {
+    position: absolute;
+    max-width: 100%;
+    width: 500px;
+    padding: 0px 20px 20px 60px;
+    top: 20px;
+    color: white;
+    height: 100%;
+}
+
+.movieName {
+    font-weight: 500;
+    font-size: 50px;
+    display: flex;
+    text-align: left;
+    margin: 0;
+}
+
+.movieType {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #747474;
+    text-align: left;
+}
+
+.summary {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+}
+
+.btnWatchIcon {
+    padding-right: 6px;
+}
+
+.watchBtnDiv {
+    text-align: left;
+}
+
+.watchNowBtn {
+    padding: 10px 20px;
+    box-sizing: border-box;
+    background: #080808;
+    border: 0.954145px solid #FF4E4E;
+    border-radius: 40.0741px;
+    color: #FF4E4E;
+    position: absolute;
+    top: 400px;
+}
+
+.leftBtn {
+    position: absolute;
+    top: 280px;
+    color: white;
+    margin: 5px;
+}
+
+.rightBtn {
+    position: absolute;
+    top: 280px;
+    right: 50px;
+    color: white;
+    margin: 5px;
+}
+.rightLeftArrow{
+    width: 30px;
+    height: 30px;
+}

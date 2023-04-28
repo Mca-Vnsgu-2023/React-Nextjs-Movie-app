@@ -1,0 +1,42 @@
+.mainDiv{
+    position: relative;
+    color: white;
+    left: 158px;
+    right: 50px;
+    // top: 544px;
+    height: auto;
+    padding-top: 30px;
+}  
+
+.subDiv{
+    display: flex;
+    flex-wrap: wrap;
+    // gap: 20px;
+    width: auto;
+    height: auto;
+    max-width: 1300px;
+}
+
+.moreCardBtn{
+    border: none;
+    background: none;
+    color: white;
+}
+
+.imgDiv{
+    padding-bottom: 20px;
+}
+
+.imgSize{
+    width: 190px;
+    height: 280px;
+    border-radius: 6.64536px;
+}
+
+.movieName{
+    padding-top: 15px;
+    color: white;
+    max-width: 100%;
+    width: 209px;
+    text-align: center; 
+}
